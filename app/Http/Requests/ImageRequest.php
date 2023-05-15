@@ -36,4 +36,5 @@ class ImageRequest extends FormRequest
             
         ];
     }
+    ↑自分でコーディングしました
 }
