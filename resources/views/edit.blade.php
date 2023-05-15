@@ -1,6 +1,6 @@
 @extends('layouts.ocrResult')
 
-↓自分でコーディングしました
+↓自分でコーディングしました（ocrResultのコピペ）
 @section('content')
 <div class="col-md-4" style="padding: 0;">
   <div class="card h-100">
@@ -37,3 +37,4 @@
   </div>
 </div>
 @endsection
+↑自分でコーディングしました（ocrResultのコピペ）
