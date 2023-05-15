@@ -1,3 +1,4 @@
+↓コマンドで生成しました
 <?php
 
 namespace App\Models;
