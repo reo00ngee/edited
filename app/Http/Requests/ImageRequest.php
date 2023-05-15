@@ -20,6 +20,8 @@ class ImageRequest extends FormRequest
      *
      * @return array<string, \Illuminate\Contracts\Validation\ValidationRule|array|string>
      */
+    
+    ↓自分でコーディングしました
     public function rules()
     {
         return [
