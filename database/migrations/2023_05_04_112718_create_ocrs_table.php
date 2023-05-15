@@ -11,6 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
+        ↓自分でコーディングしました
         Schema::create('ocrs', function (Blueprint $table) {
             $table->id();
             $table->integer('user_id');
