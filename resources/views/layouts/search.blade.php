@@ -72,7 +72,7 @@
         </div>
       </div>
     </nav>
-
+↓自分でコーディングしました
     <main class="main">
       @if(session('success'))
       <div class="alert alert-success" role="alert">
@@ -104,6 +104,7 @@
                   {{Str::limit($ocr->fixed_content, 30, '...')}}
                 </div>
                 @endforeach
+                ↑自分でコーディングしました
               </div>
             </div>
           </div>
