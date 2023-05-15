@@ -12,6 +12,7 @@ use App\Models\Ocr;
 use Google\Cloud\Vision\V1\Feature\Type;
 use OpenAI\Laravel\Facades\OpenAI;
 use App\Http\Requests\ImageRequest;
+↑自分でコーディングしました
 
 class HomeController extends Controller
 {
@@ -30,6 +31,7 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
+    ↓自分でコーディングしました
     // home。画像をアップロードするページを表示する
     public function index()
     {
@@ -161,3 +163,4 @@ class HomeController extends Controller
         return view('search', compact('user', 'ocrs', 'search'));
     }
 }
+↑自分でコーディングしました
