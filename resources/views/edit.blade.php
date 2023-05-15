@@ -1,5 +1,6 @@
 @extends('layouts.ocrResult')
 
+↓自分でコーディングしました
 @section('content')
 <div class="col-md-4" style="padding: 0;">
   <div class="card h-100">
