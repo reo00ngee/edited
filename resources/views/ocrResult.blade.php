@@ -32,3 +32,4 @@
     </div>
 </div>
 @endsection
+↑自分でコーディングしました
