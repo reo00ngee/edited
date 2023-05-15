@@ -1,3 +1,5 @@
+↓自分でコーディングしました
+
 @extends('layouts.search')
 
 @section('content')
