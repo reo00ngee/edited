@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
+↓自分でコーディングしました
 @section('content')
 @if ($errors->any())
     <div class="alert alert-danger">
