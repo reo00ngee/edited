@@ -72,13 +72,14 @@
                 </div>
             </div>
         </nav>
-
+↓自分でコーディングしました
         <main class="py-4">
         @if(session('error'))
 <div class="alert alert-danger text-center">
     {{ session('error') }}
 </div>
 @endif
+↑自分でコーディングしました
             @yield('content')
         </main>
     </div>
