@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-
+↓自分でコーディングしました
 use App\Models\User;
 use Google\Cloud\Vision\V1\Likelihood;
 use Illuminate\Http\Request;
