@@ -1,4 +1,4 @@
-↓自分でコーディングしました
+↓自分でコーディングしました（ocrResultのコピペ）
 
 @extends('layouts.search')
 
@@ -32,3 +32,4 @@
     </div>
 </div>
 @endsection
+↑自分でコーディングしました（ocrResultのコピペ）
