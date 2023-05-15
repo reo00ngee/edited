@@ -1,3 +1,5 @@
+↓自分でコーディングしました
+
 @extends('layouts.ocrResult')
 
 @section('content')
