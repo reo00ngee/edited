@@ -29,3 +29,4 @@ Route::post('/update/{id}', [App\Http\Controllers\HomeController::class, 'update
 Route::post('/delete/{id}', [App\Http\Controllers\HomeController::class, 'delete'])->name('delete');
 Route::get('/search', [App\Http\Controllers\HomeController::class, 'search'])->name('search');
 
+↑自分でコーディングしました
