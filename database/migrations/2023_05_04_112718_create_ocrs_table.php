@@ -1,3 +1,4 @@
+↓コマンドで生成しました
 <?php
 
 use Illuminate\Database\Migrations\Migration;
@@ -23,6 +24,7 @@ return new class extends Migration
             $table->timestamps();
 
         });
+        ↑自分でコーディングしました
     }
 
     /**
@@ -33,3 +35,4 @@ return new class extends Migration
         Schema::dropIfExists('ocrs');
     }
 };
+↑コマンドで生成しました
